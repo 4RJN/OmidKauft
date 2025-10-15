@@ -36,4 +36,4 @@ Der AdCleaner-Status wird gespeichert (bei Seitenwechsel erneut aktiv).
 
 Die Tabelle hat Sortierung, CSV-Export und „Weitere Seiten laden“ (N Seiten via fetch aggregieren).
 
-Die Erkennung Privat/Händler ist heuristisch; wenn mobile.de neue explizite Marker einbaut, kann ich das anpassen.
+Die Erkennung Privat/Händler ist heuristisch; wenn mobile.de neue explizite Marker einbaut,  muss angepasst werden.
