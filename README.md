@@ -108,8 +108,6 @@ Ich bin offen für **Erweiterungen, Verbesserungen und neue Ideen**.
 Gemeinsam könnten wir das Tool weiterentwickeln – z. B. um Live-Preisstatistiken,  
 Automatik-Filter oder direkte API-Abfragen.
 
-> 📬 Kontakt: arijan.rahimic (at) [bitte Domain ergänzen]
-
 ---
 
 ## 🚀 Ausblick
