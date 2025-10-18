@@ -80,7 +80,7 @@ Lädt zusätzliche Suchseiten automatisch nach und fügt sie der Tabelle hinzu.
 Derzeit befindet sich die Erweiterung **in der offiziellen Prüfphase bei Mozilla**.  
 Sobald die Freigabe erfolgt, wird sie hier verfügbar sein:
 
-👉 [mobile.de Extractor & AdCleaner – Firefox Add-on Store](https://addons.mozilla.org/de/firefox/addon/mobilede-extractor-adcleaner/)
+👉 [mobile.de Extractor & AdCleaner – Firefox Add-on Store](https://addons.mozilla.org/addon/mobile-de-extractor-adcleaner)
 
 > ⚠️ Hinweis: Da das Add-on **Werbung ausblendet**, kann es sein,  
 > dass es von Mozilla oder Werbepartnern als „ad-blockerähnlich“ eingestuft wird.  
